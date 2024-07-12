@@ -1,0 +1,15 @@
+{
+  "description": "1 DOGS = 1000 $DOGS",
+  "disabled": false,
+  "icon": "https://firebasestorage.googleapis.com/v0/b/launch-my-nft.appspot.com/o/Users%2FB3dMSa7yisf8bLrVRogUFjmUgGf1k2qwmPvqVt5RxU39%2FCollections%2FJ17GmXrhohPGNXF1ariA%2Fcover?alt=media&token=77d606b9-f067-4aab-8b8b-32b4d963b4b7",
+  "label": "DOGS",
+  "title": "DOGS",
+  "links": {
+    "actions": [
+      {
+        "href": "/api/mint-action?ownerID=B3dMSa7yisf8bLrVRogUFjmUgGf1k2qwmPvqVt5RxU39&collectionID=J17GmXrhohPGNXF1ariA&phase=Public&price=10000000",
+        "label": "Mint in phase Public for 0 SOL"
+      }
+    ]
+  }
+}
